@@ -1,0 +1,1538 @@
+Archive member included because of file (symbol)
+
+E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+                              build\DDS-Sinus.o (Adafruit_MCP4725::Adafruit_MCP4725())
+E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o) (TwoWire::beginTransmission(unsigned char))
+E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o) (twi_setAddress)
+E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(main.cpp.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o (main)
+E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o) (__cxa_pure_virtual)
+E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o) (Print::write(unsigned char const*, unsigned int))
+E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(main.cpp.o) (init)
+E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o) (digitalWrite)
+E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o) (String::operator[](unsigned int) const)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o) (__subsf3)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o) (__ltsf2)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o) (__divsf3)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o) (__fixsfsi)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o) (__fixunssfsi)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o) (__floatunsisf)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o) (__gtsf2)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o) (__mulsf3)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o) (__unordsf2)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o) (__mulsi3)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o) (__udivmodsi4)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o (exit)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o) (__do_copy_data)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              build\DDS-Sinus.o (__do_clear_bss)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+                              build\DDS-Sinus.o (__do_global_ctors)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o) (__tablejump__)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o) (malloc)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (realloc)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atol.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (atol)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (isspace)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tolower.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (tolower)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(toupper.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (toupper)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (memcpy)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memmove.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (memmove)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (strchr)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (strcmp)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (strcpy)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (strncmp)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (strncpy)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (strrchr)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (strstr)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (itoa)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (ltoa)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atol.o) (__mulsi_const_10)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (ultoa)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(utoa.o)
+                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o) (utoa)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o) (__ctype_isfalse)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o) (strrev)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o) (__udivmodhi4)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o) (__prologue_saves__)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+__flp               0x2               e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .text          0x00000000        0x0 build\DDS-Sinus.o
+ .data          0x00000000        0x0 build\DDS-Sinus.o
+ .bss           0x00000000        0x0 build\DDS-Sinus.o
+ .bss.counter   0x00000000        0x0 build\DDS-Sinus.o
+ .text          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+ .data          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+ .bss           0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+ .text._ZN16Adafruit_MCP4725C2Ev
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+ .text          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .data          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .bss           0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text._ZN7TwoWireC2Ev
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text._ZN7TwoWireC1Ev
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text._ZN7TwoWire17beginTransmissionEi
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text._ZN7TwoWire16onReceiveServiceEPhi
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text._ZN7TwoWire16onRequestServiceEv
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text._ZN7TwoWire9onReceiveEPFviE
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text._ZN7TwoWire9onRequestEPFvvE
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text._ZN7TwoWire11requestFromEhhh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text._ZN7TwoWire11requestFromEiii
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text._ZN7TwoWire11requestFromEii
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text._ZN7TwoWire11requestFromEhh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text._ZN7TwoWire5beginEh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text._ZN7TwoWire5beginEi
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .bss._ZN7TwoWire14user_onRequestE
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .bss._ZN7TwoWire14user_onReceiveE
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .rodata._ZTV6Stream
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .data          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss           0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .text.twi_setAddress
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .text.twi_readFrom
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .text.twi_attachSlaveRxEvent
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .text.twi_attachSlaveTxEvent
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .text.twi_reply
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .text.twi_stop
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .text.twi_releaseBus
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .text          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(main.cpp.o)
+ .data          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(main.cpp.o)
+ .bss           0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(main.cpp.o)
+ .text          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+ .data          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+ .bss           0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+ .text.__cxa_guard_acquire
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+ .text.__cxa_guard_release
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+ .text.__cxa_guard_abort
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+ .text._ZdaPv   0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+ .text._ZdlPv   0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+ .text._Znaj    0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+ .text._Znwj    0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+ .text          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .data          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .bss           0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5writeEPKhj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEv
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5writeEPKc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print11printNumberEmh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEmi
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEji
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEji
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEli
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEli
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEii
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEii
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEPKc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEPKc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printERK6String
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .rodata._ZTV5Print
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+ .text          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+ .data          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+ .bss           0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+ .text.millis   0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+ .text.micros   0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+ .text.delay    0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+ .text.delayMicroseconds
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+ .text          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+ .data          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+ .bss           0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+ .text.pinMode  0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+ .text.digitalRead
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+ .text          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .data          0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .bss           0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String6charAtEj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String9setCharAtEjc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringixEj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6StringixEj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String7replaceEcc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String5toIntEv
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String4trimEv
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String11toUpperCaseEv
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String11toLowerCaseEv
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String11lastIndexOfERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String7indexOfERKS_j
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String7indexOfERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String11lastIndexOfEcj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String11lastIndexOfEc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String7indexOfEcj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String7indexOfEc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String8getBytesEPhjj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String8endsWithERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String6equalsEPKc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String9compareToERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6StringgeERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6StringleERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6StringgtERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6StringltERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String6equalsERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String10startsWithERKS_j
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String10startsWithERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String12changeBufferEj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String7replaceERKS_S1_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String7reserveEj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEPKcj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEm
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEl
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEi
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEPKc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String10invalidateEv
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperm
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperl
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperi
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperPKc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperRK6String
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String4copyEPKcj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1EPKc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2EPKc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringaSEPKc
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1Emh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2Emh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1Elh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2Elh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1Ejh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2Ejh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1Eih
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2Eih
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1Ehh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2Ehh
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1Ec
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2Ec
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String9substringEjj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String9substringEj
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringaSERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1ERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2ERKS_
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringD1Ev
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringD2Ev
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x00000000        0x0 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+ COMMON         0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atol.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atol.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atol.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .text.ctype    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .text.ctype    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .text.ctype    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .text.ctype    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+LOAD build\DDS-Sinus.o
+LOAD E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a
+LOAD E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xbc2
+ *(.vectors)
+ .vectors       0x00000000       0x68 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x00000068      0x200 build\DDS-Sinus.o
+                0x00000068                DACLookup_FullSine_8Bit
+ .progmem.data  0x00000268       0x5a E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+                0x00000268                port_to_mode_PGM
+                0x00000286                digital_pin_to_port_PGM
+                0x0000029a                digital_pin_to_bit_mask_PGM
+                0x00000272                port_to_output_PGM
+                0x0000027c                port_to_input_PGM
+                0x000002ae                digital_pin_to_timer_PGM
+                0x000002c2                . = ALIGN (0x2)
+                0x000002c2                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000002c2        0x0 linker stubs
+ *(.trampolines*)
+                0x000002c2                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000002c2                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000002c2        0x2 build\DDS-Sinus.o
+ .ctors         0x000002c4        0x2 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x000002c6                __ctors_end = .
+                0x000002c6                __dtors_start = .
+ *(.dtors)
+                0x000002c6                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000002c6        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x000002c6                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000002c6        0xc e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000002d2       0x16 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x000002d2                __do_copy_data
+ .init4         0x000002e8       0x10 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x000002e8                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000002f8       0x16 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+                0x000002f8                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000030e        0x8 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000316        0x4 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000316                __vector_22
+                0x00000316                __vector_1
+                0x00000316                __vector_12
+                0x00000316                __bad_interrupt
+                0x00000316                __vector_6
+                0x00000316                __vector_3
+                0x00000316                __vector_23
+                0x00000316                __vector_25
+                0x00000316                __vector_11
+                0x00000316                __vector_13
+                0x00000316                __vector_17
+                0x00000316                __vector_19
+                0x00000316                __vector_7
+                0x00000316                __vector_5
+                0x00000316                __vector_4
+                0x00000316                __vector_9
+                0x00000316                __vector_2
+                0x00000316                __vector_21
+                0x00000316                __vector_15
+                0x00000316                __vector_8
+                0x00000316                __vector_14
+                0x00000316                __vector_10
+                0x00000316                __vector_18
+                0x00000316                __vector_20
+                0x0000031a                . = ALIGN (0x2)
+ *(.text.*)
+ .text._GLOBAL__I_dac1
+                0x0000031a        0xa build\DDS-Sinus.o
+ .text.loop     0x00000324       0x30 build\DDS-Sinus.o
+                0x00000324                loop
+ .text.setup    0x00000354        0xc build\DDS-Sinus.o
+                0x00000354                setup
+ .text._ZN16Adafruit_MCP4725C1Ev
+                0x00000360        0x2 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+                0x00000360                Adafruit_MCP4725::Adafruit_MCP4725()
+ .text._ZN16Adafruit_MCP47255beginEh
+                0x00000362        0xe E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+                0x00000362                Adafruit_MCP4725::begin(unsigned char)
+ .text._ZN16Adafruit_MCP472510setVoltageEjb
+                0x00000370       0x78 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+                0x00000370                Adafruit_MCP4725::setVoltage(unsigned int, bool)
+ .text._ZN7TwoWire17beginTransmissionEh
+                0x000003e8       0x14 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x000003e8                TwoWire::beginTransmission(unsigned char)
+ .text._ZN7TwoWire9availableEv
+                0x000003fc       0x12 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x000003fc                TwoWire::available()
+ .text._ZN7TwoWire4readEv
+                0x0000040e       0x2a E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x0000040e                TwoWire::read()
+ .text._ZN7TwoWire4peekEv
+                0x00000438       0x22 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x00000438                TwoWire::peek()
+ .text._ZN7TwoWire5flushEv
+                0x0000045a        0x2 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x0000045a                TwoWire::flush()
+ .text._GLOBAL__I__ZN7TwoWire8rxBufferE
+                0x0000045c       0x2e E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ .text._ZN7TwoWire5writeEPKhj
+                0x0000048a       0x62 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x0000048a                TwoWire::write(unsigned char const*, unsigned int)
+ .text._ZN7TwoWire5writeEh
+                0x000004ec       0x60 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x000004ec                TwoWire::write(unsigned char)
+ .text._ZN7TwoWire15endTransmissionEh
+                0x0000054c       0x26 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x0000054c                TwoWire::endTransmission(unsigned char)
+ .text._ZN7TwoWire15endTransmissionEv
+                0x00000572        0x8 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x00000572                TwoWire::endTransmission()
+ .text._ZN7TwoWire5beginEv
+                0x0000057a       0x16 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x0000057a                TwoWire::begin()
+ .text.twi_writeTo
+                0x00000590       0xaa E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+                0x00000590                twi_writeTo
+ .text.twi_transmit
+                0x0000063a       0x36 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+                0x0000063a                twi_transmit
+ .text.__vector_24
+                0x00000670      0x322 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+                0x00000670                __vector_24
+ .text.twi_init
+                0x00000992       0x3c E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+                0x00000992                twi_init
+ .text.main     0x000009ce       0x1e E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(main.cpp.o)
+                0x000009ce                main
+ .text.__vector_16
+                0x000009ec       0x90 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+                0x000009ec                __vector_16
+ .text.init     0x00000a7c       0x76 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+                0x00000a7c                init
+ .text.turnOffPWM
+                0x00000af2       0x5a E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+ .text.digitalWrite
+                0x00000b4c       0x66 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+                0x00000b4c                digitalWrite
+ .text.libgcc   0x00000bb2        0xc e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+                0x00000bb6                __tablejump__
+                0x00000bb2                __tablejump2__
+                0x00000bbe                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000bbe        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00000bbe                exit
+                0x00000bbe                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000bbe        0x4 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000bc2                _etext = .
+
+.data           0x00800100       0x10 load address 0x00000bc2
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV7TwoWire
+                0x00800100       0x10 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x00800100                vtable for TwoWire
+ *(.gnu.linkonce.d*)
+                0x00800110                . = ALIGN (0x2)
+                0x00800110                _edata = .
+                0x00800110                PROVIDE (__data_end, .)
+
+.bss            0x00800110       0xca
+                0x00800110                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.dac1      0x00800110        0x1 build\DDS-Sinus.o
+                0x00800110                dac1
+ .bss._ZN7TwoWire8rxBufferE
+                0x00800111       0x20 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x00800111                TwoWire::rxBuffer
+ .bss._ZN7TwoWire13rxBufferIndexE
+                0x00800131        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x00800131                TwoWire::rxBufferIndex
+ .bss._ZN7TwoWire14rxBufferLengthE
+                0x00800132        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x00800132                TwoWire::rxBufferLength
+ .bss._ZN7TwoWire9txAddressE
+                0x00800133        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x00800133                TwoWire::txAddress
+ .bss._ZN7TwoWire8txBufferE
+                0x00800134       0x20 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x00800134                TwoWire::txBuffer
+ .bss._ZN7TwoWire13txBufferIndexE
+                0x00800154        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x00800154                TwoWire::txBufferIndex
+ .bss._ZN7TwoWire14txBufferLengthE
+                0x00800155        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x00800155                TwoWire::txBufferLength
+ .bss._ZN7TwoWire12transmittingE
+                0x00800156        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x00800156                TwoWire::transmitting
+ .bss.Wire      0x00800157        0xc E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                0x00800157                Wire
+ .bss.twi_state
+                0x00800163        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.twi_slarw
+                0x00800164        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.twi_sendStop
+                0x00800165        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.twi_inRepStart
+                0x00800166        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.twi_onSlaveTransmit
+                0x00800167        0x2 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.twi_onSlaveReceive
+                0x00800169        0x2 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.twi_masterBuffer
+                0x0080016b       0x20 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.twi_masterBufferIndex
+                0x0080018b        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.twi_masterBufferLength
+                0x0080018c        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.twi_txBuffer
+                0x0080018d       0x20 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.twi_txBufferIndex
+                0x008001ad        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.twi_txBufferLength
+                0x008001ae        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.twi_rxBuffer
+                0x008001af       0x20 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.twi_rxBufferIndex
+                0x008001cf        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.twi_error
+                0x008001d0        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+ .bss.timer0_overflow_count
+                0x008001d1        0x4 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+                0x008001d1                timer0_overflow_count
+ .bss.timer0_millis
+                0x008001d5        0x4 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+                0x008001d5                timer0_millis
+ .bss.timer0_fract
+                0x008001d9        0x1 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+ *(COMMON)
+                0x008001da                PROVIDE (__bss_end, .)
+                0x00000bc2                __data_load_start = LOADADDR (.data)
+                0x00000bd2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001da        0x0
+                0x008001da                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008001da                PROVIDE (__noinit_end, .)
+                0x008001da                _end = .
+                0x008001da                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(build\DDS-Sinus_uno.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+Adafruit_MCP4725::Adafruit_MCP4725()              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+                                                  build\DDS-Sinus.o
+Adafruit_MCP4725::Adafruit_MCP4725()              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+Adafruit_MCP4725::begin(unsigned char)            E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+                                                  build\DDS-Sinus.o
+Adafruit_MCP4725::setVoltage(unsigned int, bool)  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+                                                  build\DDS-Sinus.o
+DACLookup_FullSine_8Bit                           build\DDS-Sinus.o
+Print::print(Printable const&)                    E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::print(String const&)                       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::print(__FlashStringHelper const*)          E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::print(char const*)                         E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::print(char)                                E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::print(double, int)                         E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::print(int, int)                            E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::print(long, int)                           E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::print(unsigned char, int)                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::print(unsigned int, int)                   E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::print(unsigned long, int)                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::printFloat(double, unsigned char)          E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::printNumber(unsigned long, unsigned char)  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::println()                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::println(Printable const&)                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::println(String const&)                     E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::println(__FlashStringHelper const*)        E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::println(char const*)                       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::println(char)                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::println(double, int)                       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::println(int, int)                          E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::println(long, int)                         E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::println(unsigned char, int)                E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::println(unsigned int, int)                 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::println(unsigned long, int)                E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::write(char const*)                         E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+Print::write(unsigned char const*, unsigned int)  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+String::String(String const&)                     E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(String const&)                     E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(char const*)                       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(char const*)                       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(char)                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(char)                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(int, unsigned char)                E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(int, unsigned char)                E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(long, unsigned char)               E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(long, unsigned char)               E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(unsigned char, unsigned char)      E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(unsigned char, unsigned char)      E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(unsigned int, unsigned char)       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(unsigned int, unsigned char)       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(unsigned long, unsigned char)      E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::String(unsigned long, unsigned char)      E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::changeBuffer(unsigned int)                E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::charAt(unsigned int) const                E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::compareTo(String const&) const            E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::concat(String const&)                     E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::concat(char const*)                       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::concat(char const*, unsigned int)         E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::concat(char)                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::concat(int)                               E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::concat(long)                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::concat(unsigned char)                     E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::concat(unsigned int)                      E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::concat(unsigned long)                     E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::copy(char const*, unsigned int)           E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::endsWith(String const&) const             E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::equals(String const&) const               E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::equals(char const*) const                 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::equalsIgnoreCase(String const&) const     E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::getBytes(unsigned char*, unsigned int, unsigned int) const E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::indexOf(String const&) const              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::indexOf(String const&, unsigned int) const E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::indexOf(char) const                       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::indexOf(char, unsigned int) const         E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::invalidate()                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::lastIndexOf(String const&) const          E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::lastIndexOf(String const&, unsigned int) const E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::lastIndexOf(char) const                   E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::lastIndexOf(char, unsigned int) const     E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::operator<(String const&) const            E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::operator<=(String const&) const           E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::operator=(String const&)                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::operator=(char const*)                    E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::operator>(String const&) const            E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::operator>=(String const&) const           E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::operator[](unsigned int)                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::operator[](unsigned int) const            E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+String::replace(String const&, String const&)     E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::replace(char, char)                       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::reserve(unsigned int)                     E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::setCharAt(unsigned int, char)             E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::startsWith(String const&) const           E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::startsWith(String const&, unsigned int) const E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::substring(unsigned int) const             E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::substring(unsigned int, unsigned int) const E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::toInt() const                             E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::toLowerCase()                             E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::toUpperCase()                             E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::trim()                                    E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::~String()                                 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+String::~String()                                 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+TwoWire::TwoWire()                                E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::TwoWire()                                E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::available()                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::begin()                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+TwoWire::begin(int)                               E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::begin(unsigned char)                     E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::beginTransmission(int)                   E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::beginTransmission(unsigned char)         E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+TwoWire::endTransmission()                        E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+TwoWire::endTransmission(unsigned char)           E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::flush()                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::onReceive(void (*)(int))                 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::onReceiveService(unsigned char*, int)    E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::onRequest(void (*)())                    E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::onRequestService()                       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::peek()                                   E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::read()                                   E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::requestFrom(int, int)                    E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::requestFrom(int, int, int)               E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::requestFrom(unsigned char, unsigned char) E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::requestFrom(unsigned char, unsigned char, unsigned char) E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::rxBuffer                                 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::rxBufferIndex                            E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::rxBufferLength                           E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::transmitting                             E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::txAddress                                E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::txBuffer                                 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::txBufferIndex                            E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::txBufferLength                           E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::user_onReceive                           E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::user_onRequest                           E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::write(unsigned char const*, unsigned int) E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+TwoWire::write(unsigned char)                     E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+Wire                                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Adafruit_MCP4725.cpp.o)
+__addsf3                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+__addsf3x                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+__bad_interrupt                                   e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__brkval                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+__bss_end                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__cmpsf2                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__ctors_end                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+__ctors_start                                     e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+__ctype_isfalse                                   e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+__ctype_istrue                                    e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+__cxa_guard_abort                                 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+__cxa_guard_acquire                               E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+__cxa_guard_release                               E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+__cxa_pure_virtual                                E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+__data_end                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_start                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__divsf3                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+__divsf3_pse                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+__divsf3x                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+__do_clear_bss                                    e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                                                  build\DDS-Sinus.o
+__do_copy_data                                    e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+__do_global_ctors                                 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+                                                  build\DDS-Sinus.o
+__epilogue_restores__                             e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+__eqsf2                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__fixsfsi                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+__fixunssfsi                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+__floatsisf                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+__floatunsisf                                     e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+__flp                                             e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+__fp_cmp                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__fp_inf                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_nan                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_pscA                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_pscB                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_round                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+__fp_split3                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_splitA                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+__fp_szero                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+__fp_zero                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__gesf2                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+__gtsf2                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+__heap_end                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+__heap_start                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+__init                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__lesf2                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+__ltsf2                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+__malloc_heap_end                                 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+__malloc_heap_start                               e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+__malloc_margin                                   e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+__mulsf3                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+__mulsf3_pse                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__mulsf3x                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+__mulsi3                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+__mulsi_const_10                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atol.o)
+__nesf2                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__prologue_saves__                                e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+__stack                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__subsf3                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+__tablejump2__                                    e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+__tablejump__                                     e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+__udivmodhi4                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(utoa.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+__udivmodsi4                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+__unordsf2                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+__vector_1                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+_exit                                             e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+atol                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atol.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+counter                                           build\DDS-Sinus.o
+dac1                                              build\DDS-Sinus.o
+delay                                             E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+delayMicroseconds                                 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+digitalRead                                       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+digitalWrite                                      E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+digital_pin_to_bit_mask_PGM                       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+digital_pin_to_port_PGM                           E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+digital_pin_to_timer_PGM                          E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+exit                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+free                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+init                                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(main.cpp.o)
+isspace                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+itoa                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+loop                                              build\DDS-Sinus.o
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(main.cpp.o)
+ltoa                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+main                                              E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(main.cpp.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+malloc                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+memcpy                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memmove.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+memmove                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memmove.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+micros                                            E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+millis                                            E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+operator delete(void*)                            E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+operator delete[](void*)                          E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+operator new(unsigned int)                        E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+operator new[](unsigned int)                      E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(new.cpp.o)
+operator+(StringSumHelper const&, String const&)  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+operator+(StringSumHelper const&, char const*)    E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+operator+(StringSumHelper const&, char)           E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+operator+(StringSumHelper const&, int)            E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+operator+(StringSumHelper const&, long)           E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+operator+(StringSumHelper const&, unsigned char)  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+operator+(StringSumHelper const&, unsigned int)   E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+operator+(StringSumHelper const&, unsigned long)  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+pinMode                                           E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+port_to_input_PGM                                 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+port_to_mode_PGM                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+port_to_output_PGM                                E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring_digital.c.o)
+realloc                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+serialEventRun()                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(main.cpp.o)
+setup                                             build\DDS-Sinus.o
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(main.cpp.o)
+strchr                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+strcmp                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+strcpy                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+strncmp                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+strncpy                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+strrchr                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+strrev                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(utoa.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+strstr                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+timer0_millis                                     E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+timer0_overflow_count                             E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(wiring.c.o)
+tolower                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tolower.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+toupper                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(toupper.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+twi_attachSlaveRxEvent                            E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+twi_attachSlaveTxEvent                            E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+twi_init                                          E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+twi_readFrom                                      E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+twi_releaseBus                                    E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+twi_reply                                         E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+twi_setAddress                                    E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+twi_stop                                          E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+twi_transmit                                      E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+twi_writeTo                                       E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(twi.c.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+ultoa                                             e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+utoa                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(utoa.o)
+                                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(WString.cpp.o)
+vtable for Print                                  E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/core_uno_16.a(Print.cpp.o)
+vtable for Stream                                 E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
+vtable for TwoWire                                E:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\Sistem Interoperabilitas\Project Arduino\DDS-Sinus\build\/lib_uno_16.a(Wire.cpp.o)
